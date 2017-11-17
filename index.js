@@ -20,7 +20,7 @@ function Height(height){
 }
 
 function Message(name, height){
-return `${name}, is ${} inches tall.`
+return `${name}, is ${height} inches tall.`
 }
 
 
