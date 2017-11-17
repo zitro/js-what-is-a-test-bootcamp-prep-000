@@ -19,8 +19,8 @@ function Height(height){
   }
 }
 
-function Message(name, height){
-return `${name}, is ${height} inches tall.`
+function Message(message){
+return message
 }
 
 
