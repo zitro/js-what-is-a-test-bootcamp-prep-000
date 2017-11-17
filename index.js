@@ -3,7 +3,7 @@ var name = "Joe"
 var height = 74
 var message = `${name} is ${height} inches tall`
 
-function what-is-a-test(name){
+function Name(name){
 if (name === 'Susan'){
     return 'Susan'
 }else{
