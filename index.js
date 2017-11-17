@@ -8,7 +8,7 @@ if (name === 'Susan'){
     return 'Susan'
 }else{
   return 'We expect the name to equal Susan.'
-}
+}}
 
 
 function Height(height){
@@ -20,7 +20,7 @@ function Height(height){
 }
 
 function Message(name, height){
-return `${name}, is ${} inches tall.`  
+return `${name}, is ${} inches tall.`
 }
 
 
